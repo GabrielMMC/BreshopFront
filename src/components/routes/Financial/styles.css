@@ -1,0 +1,16 @@
+.balance-card {
+ margin: auto;
+ padding: 1rem;
+ min-height: 8rem;
+ text-align: center;
+ border-radius: .4rem;
+ background-color: white;
+ box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.balance-card p {
+ padding: .6rem;
+ font-weight: bold;
+ border-radius: .4rem;
+ background-color: #D3D3D3;
+}
